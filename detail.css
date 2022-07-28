@@ -16,8 +16,10 @@ a {
 .card-title {
   text-align: center;
 }
-.description {
-
+#description {
+  margin: 10px;
+  color: #494949;
+  line-height: 2em;
 }
 
 #img1, #img2{

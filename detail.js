@@ -41,8 +41,8 @@ function detail() {
 
   
   
-  if ($('#fb-link').attr('href') === "") {
-    $('#fb-link').remove()
+  if ($('#fbLink').attr('href') === "") {
+    $('#fbList').remove()
   }
 
 }
